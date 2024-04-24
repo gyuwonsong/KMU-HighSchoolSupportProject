@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="display">
+        <div class="input"></div>
+      </div>
+      <div class="buttons">
+        <!-- 연산자는 operator 클래스
+             숫자는 numBtn 클래스
+             초기화는 ac 클래스
+             결과는 result 클래스 
+             
+             숫자 외 버튼에는 각 클래스 명과 같은 데이터 타입 부여-->
+        <button data-type="ac" class="ac">C</button>
+        <button data-type="operator" class="operator">+</button>
+        <button data-type="operator" class="operator">-</button>
+        <button data-type="operator" class="operator">x</button>
+        <button class="numBtn">7</button>
+        <button class="numBtn">8</button>
+        <button class="numBtn">9</button>
+        <button data-type="operator" class="operator">/</button>
+        <button class="numBtn">4</button>
+        <button class="numBtn">5</button>
+        <button class="numBtn">6</button>
+        <button data-type="result" class="result">=</button>
+        <button class="numBtn">1</button>
+        <button class="numBtn">2</button>
+        <button class="numBtn">3</button>
+        <button class="numBtn">0</button>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
