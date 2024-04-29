@@ -2,11 +2,12 @@
 [2023년도 국민대학교 고교교육 기여대학 지원사업] 소프트웨어융합대학 교육 자료 🏫
 <br/>
 <br/>
+
 ## 팀원
 - 팀장 : 송규원
 - 팀원 : 박수연, 윤준현
 <br/>
-<br/>
+
 ## 재현고등학교
 
 <aside>
@@ -24,6 +25,9 @@
 
 </aside>
 
+<br/>
+<br/>
+
 | 주차 | 수업 주제 | 수업 내용 |
 | --- | --- | --- |
 | 1주차 | Orientation | 국민대학교 소프트웨어융합대학 소개 및 SW 관련 브레인스토밍 활동 |
@@ -32,11 +36,15 @@
 | 4주차 | Python 기초 이론 및 실습 - 자료형, 조건문, 반복문 | UpDown 게임 만들기 |
 | 5주차 | Python 기초 이론 및 실습 - 조건문, 반복문, 함수 | VendingMachine 만들기 / PingPong 게임 만들기 |
 
+
+<br/>
 🔎 5주차 실습 예시
 
 ![재현고 5주차 실습 GIF](https://github.com/gyuwonsong/KMU-HighSchoolSupportProject/assets/81706832/dcb834a7-1e18-4e0b-a474-be0181d49816)
+
 <br/>
 <br/>
+
 ## 대성고등학교
 
 <aside>
@@ -54,6 +62,9 @@
 
 </aside>
 
+<br/>
+<br/>
+
 | 주차 | 수업 주제 | 수업 내용 |
 | --- | --- | --- |
 | 1주차 | Orientation | 국민대학교 소프트웨어융합대학 소개 및 SW 관련 브레인스토밍 활동 |
@@ -62,6 +73,7 @@
 | 4주차 | 웹 심화 실습 | WordTyping 게임 만들기 |
 | 5주차 | 웹 심화 실습 | Calculator 만들기 |
 
+<br/>
 🔎 4주차 실습 예시
 
 ![대성고 4주차 예시](https://github.com/gyuwonsong/KMU-HighSchoolSupportProject/assets/81706832/76ee64f6-1ae6-4dbd-8352-c3e825575eeb)
