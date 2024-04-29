@@ -30,7 +30,7 @@
 | 4주차 | Python 기초 이론 및 실습 - 자료형, 조건문, 반복문 | UpDown 게임 만들기 |
 | 5주차 | Python 기초 이론 및 실습 - 조건문, 반복문, 함수 | VendingMachine 만들기 / PingPong 게임 만들기 |
 
-🔻 5주차 실습 예시
+🔎 5주차 실습 예시
 
 ![재현고 5주차 실습 GIF](https://github.com/gyuwonsong/KMU-HighSchoolSupportProject/assets/81706832/dcb834a7-1e18-4e0b-a474-be0181d49816)
 
@@ -59,10 +59,10 @@
 | 4주차 | 웹 심화 실습 | WordTyping 게임 만들기 |
 | 5주차 | 웹 심화 실습 | Calculator 만들기 |
 
-🔻 4주차 실습 예시
+🔎 4주차 실습 예시
 
 ![대성고 4주차 예시](https://github.com/gyuwonsong/KMU-HighSchoolSupportProject/assets/81706832/76ee64f6-1ae6-4dbd-8352-c3e825575eeb)
 
-🔻 5주차 실습 예시
+🔎 5주차 실습 예시
 
 ![대성고 5주차 예시](https://github.com/gyuwonsong/KMU-HighSchoolSupportProject/assets/81706832/8a8021a0-2bd8-4be2-abcc-82649f35ba1c)
